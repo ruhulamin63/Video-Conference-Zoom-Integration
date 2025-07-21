@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "c1e5774d-842a-4142-9b5f-40d570f5087f",
+    "name": "local",
+    "default": true,
+    "sortNum": 10000,
+    "created": "2025-07-21T09:26:52.186Z",
+    "modified": "2025-07-21T09:26:52.186Z",
+    "data": [
+      {
+        "name": "baseUrl",
+        "value": "http://127.0.0.1:8000/api"
+      }
+    ]
+  }
+]
